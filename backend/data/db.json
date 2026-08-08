@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Merish",
+      "email": "mmerish01@gmail.com",
+      "password": "$2a$10$jAVz2wfINscEei4y6dCrvu5syFlpK4Nq9S93quQl/CavOJe2aeroK",
+      "created_at": "2026-08-08T09:32:09.715Z"
+    }
+  ],
+  "tasks": [],
+  "_seq": {
+    "users": 1,
+    "tasks": 1
+  }
+}
